@@ -5,41 +5,153 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
+  <!-- bootstrap -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
     crossorigin="anonymous"></script>
+    <!-- css -->
   <link rel="stylesheet" href="./style.css">
+  <!-- fontawesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
   <!-- Navbar -->
   <nav class="navbar  p-3">
     <div class="container-fluid ">
-      <a class="navbar-brand mx-auto"><h1>Recipe Finder</h1></a>
-      <form class="d-flex mx-auto" role="search">
-        <input class="form-control inpt " type="search" placeholder="Search" aria-label="Search" id="inpt">
-        <button class="btn ms-3 btn-outline-success" type="submit" id="searchbtn"
-          onclick="getUrl(event)">Search</button>
-      </form>
+      <a class="navbar-brand mx-auto">
+        <h1>Recipe Finder</h1>
+      </a>
+
+
     </div>
+
   </nav>
 
-  <!-- Section1 -->
+  <div class="container-fluid d-flex justify-content-center align-items-center sdiv">
+    <div class="d-flex justify-content-center align-items-center p-3  w-lg-75 w-md-75 w-sm-100">
 
-  <div class="container-fluid sec-1">
-    <div class="row row1" id="n1">
-<a href="" ></a>
+      <input class="form-control inpt " type="search" placeholder="Search" aria-label="Search" id="inpt"
+        onkeyup="getSugg(event)" autocomplete="off">
+      <button class="btn ms-3 btn-outline-success" type="submit" id="searchbtn" onclick="getUrl(event)">Search</button>
+    </div>
+    <div class="sugdiv bg-light" id="suggs" style="display: none;">
+
     </div>
 
   </div>
 
 
 
+  <!-- Section1 -->
+
+  <div class="container-fluid sec-1">
+    <div class="row row1" id="n1">
+
+    </div>
+
+    <div>
+
+
+      <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title  fs-5" id="exampleModalLabel"></h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body" id="modalbody">
+
+
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
 
   <!-- footer -->
-  <footer style="height: 200px;"></footer>
+  <footer class="text-center bg-body-tertiary" id="footer" style="display: none; margin-top: 200px;">
+    <!-- Grid container -->
+    <div class="container pt-4">
+      <!-- Section: Social media -->
+      <section class="mb-4">
+        <!-- Facebook -->
+        <a
+          data-mdb-ripple-init
+          class="btn btn-link btn-floating btn-lg text-body m-1"
+          href="#!"
+          role="button"
+          data-mdb-ripple-color="dark"
+          ><i class="fab fa-facebook-f"></i
+        ></a>
+  
+        <!-- Twitter -->
+        <a
+          data-mdb-ripple-init
+          class="btn btn-link btn-floating btn-lg text-body m-1"
+          href="#!"
+          role="button"
+          data-mdb-ripple-color="dark"
+          ><i class="fab fa-twitter"></i
+        ></a>
+  
+        <!-- Google -->
+        <a
+          data-mdb-ripple-init
+          class="btn btn-link btn-floating btn-lg text-body m-1"
+          href="#!"
+          role="button"
+          data-mdb-ripple-color="dark"
+          ><i class="fab fa-google"></i
+        ></a>
+  
+        <!-- Instagram -->
+        <a
+          data-mdb-ripple-init
+          class="btn btn-link btn-floating btn-lg text-body m-1"
+          href="#!"
+          role="button"
+          data-mdb-ripple-color="dark"
+          ><i class="fab fa-instagram"></i
+        ></a>
+  
+        <!-- Linkedin -->
+        <a
+          data-mdb-ripple-init
+          class="btn btn-link btn-floating btn-lg text-body m-1"
+          href="#!"
+          role="button"
+          data-mdb-ripple-color="dark"
+          ><i class="fab fa-linkedin"></i
+        ></a>
+        <!-- Github -->
+        <a
+          data-mdb-ripple-init
+          class="btn btn-link btn-floating btn-lg text-body m-1"
+          href="#!"
+          role="button"
+          data-mdb-ripple-color="dark"
+          ><i class="fab fa-github"></i
+        ></a>
+      </section>
+      <!-- Section: Social media -->
+    </div>
+    <!-- Grid container -->
+  
+    <!-- Copyright -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.05);">
+      © 2020 Copyright:
+      <a class="text-body" href="https://mdbootstrap.com/">RecipeFinder.com</a>
+    </div>
+    <!-- Copyright -->
+  </footer>
 
   <script src="./script.js"></script>
 </body>

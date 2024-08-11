@@ -1,7 +1,7 @@
 const searchBtn = document.querySelector("#searchbtn")
 const searchInput = document.querySelector("#inpt")
 
-const keyWords = [`egg`, `lamb`, `chicken`, `noodles`, `cake`, `fish`, `seafood`, `milk`, `veg`, `pork`,`duck`,`lemon`, `yogurt`,`honey`,]
+const keyWords = [`egg`, `lamb`, `chicken`, `noodles`, `cake`, `fish`, `seafood`, `milk`, `veg`, `pork`, `duck`, `lemon`, `yogurt`, `honey`,`salad`,`pizza`,`pickle`]
 
 const getSugg = (e) => {
   let suggetions = searchInput.value
@@ -73,8 +73,8 @@ const getUrl = (e) => {
 </div>
 `
       n1.innerHTML = a
-      main1.style.display="none";
-      footer.style.display="block";
+      main1.style.display = "none";
+      footer.style.display = "block";
     })
 
     ).catch(err => {
@@ -84,7 +84,8 @@ const getUrl = (e) => {
 
   }
   else {
-    let nothing = `<h2 class="text-center"><b>Enter Your Favorite Dish!!!</b></h2>`
+    main1.style.display = "none";
+    let nothing = `<h2 class="text-center"><b>Enter Your Favorite Dish!</b></h2>`
     n1.innerHTML = nothing
   }
 }

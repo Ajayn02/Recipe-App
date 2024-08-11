@@ -7,6 +7,7 @@
 }
 
 body {
+    position: relative;
     background: rgb(124, 91, 150);
     background: linear-gradient(90deg, rgba(124, 91, 150, 1) 0%, rgba(196, 196, 249, 1) 78%);
 }
@@ -111,4 +112,8 @@ ul {
 .sugdiv {
     margin-left: -80px;
     margin-top: -15px;
+}
+
+#footer{
+    background-color: rgb(241, 235, 253);
 }

@@ -1,7 +1,7 @@
 const searchBtn = document.querySelector("#searchbtn")
 const searchInput = document.querySelector("#inpt")
 
-const keyWords = [`egg`, `lamb`, `chicken`, `noodles`, `cake`, `fish`, `seafood`, `milk`, `veg`, `pork`, `duck`, `lemon`, `yogurt`, `honey`,`salad`,`pizza`,`pickle`]
+const keyWords = [`egg`, `lamb`, `chicken`, `noodles`, `cake`, `fish`, `seafood`, `milk`, `veg`, `pork`, `duck`, `lemon`, `yogurt`, `honey`,`salad`,`pizza`,`pickle`,`beef`]
 
 const getSugg = (e) => {
   let suggetions = searchInput.value
@@ -78,6 +78,7 @@ const getUrl = (e) => {
     })
 
     ).catch(err => {
+      main1.style.display = "none";
       let e = `<h1 class="text-center"> Sorry Not found!!</h1>`
       n1.innerHTML = e
     })

@@ -73,6 +73,7 @@ const getUrl = (e) => {
 </div>
 `
       n1.innerHTML = a
+      main1.style.display="none";
       footer.style.display="block";
     })
 
@@ -83,7 +84,7 @@ const getUrl = (e) => {
 
   }
   else {
-    let nothing = `<h2 class="text-center">Enter Your Favorite Dish!!!</h2>`
+    let nothing = `<h2 class="text-center"><b>Enter Your Favorite Dish!!!</b></h2>`
     n1.innerHTML = nothing
   }
 }

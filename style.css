@@ -71,6 +71,12 @@ body {
     background-color: rgb(118, 37, 200);
     color: white;
 }
+.header{
+    font-weight: bolder;
+    font-family: "Poppins", sans-serif;
+    color: white;
+
+}
 
 
 /* modal */

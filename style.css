@@ -56,6 +56,13 @@ body {
     font-family: "DM Serif Display", serif;    color: white;
     text-shadow: 2px 2px 4px #000000;
 }
+.navbar-brand:hover{
+    font-weight: bolder;
+    font-family: "DM Serif Display", serif;    color: white;
+    text-shadow: 2px 2px 4px #000000;
+
+}
+
 
 .navbar {
     background-color: rgb(51, 3, 84);

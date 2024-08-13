@@ -6,12 +6,15 @@
 }
 
 body {
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
     position: relative;
     background: rgb(124, 91, 150);
     background: linear-gradient(90deg, rgba(124, 91, 150, 1) 0%, rgba(196, 196, 249, 1) 78%);
 }
 
-.row1 {
+.row1,.r1 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,6 +26,7 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 50px;
+    /* border: white solid 1px; */
 
     /* border: 1px solid black; */
 }
@@ -85,9 +89,10 @@ body {
     text-shadow: 2px 2px 4px #000000;
 
 }
-
-
-/* modal */
+#mainhead h1{
+    font-weight: bolder;
+    text-shadow: 2px 2px #ddbfee;}
+    /* modal */
 .mbtn {
     background-color: rgb(178, 118, 234);
     color: black;

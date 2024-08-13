@@ -1,0 +1,94 @@
+{
+    "meals": [
+        {
+           "idMeal": "52981",
+      "strMeal": "Snert (Dutch Split Soup)",
+      "strDrinkAlternate": null,
+      "strCategory": "Side",
+      "strArea": "Dutch",
+      "strInstructions": "Gather the ingredients.\r\n\r\nIn a large soup pot, bring water, split peas, pork belly or bacon, pork chop, and bouillon cube to a boil. Reduce the heat to a simmer, cover and let cook for 45 minutes, stirring occasionally and skimming off any foam that rises to the top. \r\n\r\nRemove the pork chop, debone, and thinly slice the meat. Set aside.\r\n\r\nAdd the celery, carrots, potato, onion, leek, and celeriac to the soup. Return to the boil, reduce the heat to a simmer and let cook, uncovered, for another 30 minutes, adding a little extra water if the ingredients start to stick to the bottom of the pot.\r\n\r\nAdd the smoked sausage for the last 15 minutes of cooking time. When the vegetables are tender, remove the bacon and smoked sausage, slice thinly and set aside.\r\n\r\nIf you prefer a smooth consistency, purée the soup with a stick blender. Season to taste with salt and pepper. Add the meat back to the soup, setting some slices of rookworst aside.\r\n\r\nServe in heated bowls or soup plates, garnished with slices of rookworst and chopped celery leaf.\r\n\r\nEnjoy!",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/9ptx0a1565090843.jpg",
+      "strTags": "Soup,Cake",
+      "strYoutube": "https://www.youtube.com/watch?v=5YV0sJLtLt8"
+        },
+        {
+            "idMeal": "52963",
+      "strMeal": "Shakshuka",
+      "strDrinkAlternate": null,
+      "strCategory": "Vegetarian",
+      "strArea": "Egyptian",
+      "strInstructions": "Heat the oil in a frying pan that has a lid, then soften the onions, chilli, garlic and coriander stalks for 5 mins until soft. Stir in the tomatoes and sugar, then bubble for 8-10 mins until thick. Can be frozen for 1 month.\r\n\r\nUsing the back of a large spoon, make 4 dips in the sauce, then crack an egg into each one. Put a lid on the pan, then cook over a low heat for 6-8 mins, until the eggs are done to your liking. Scatter with the coriander leaves and serve with crusty bread.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+      "strTags": "Egg,Brunch,Breakfast",
+      "strYoutube": "https://www.youtube.com/watch?v=C-3_jYrfdBU"
+
+        },
+        {
+            "idMeal": "52877",
+      "strMeal": "Lamb and Potato pie",
+      "strDrinkAlternate": null,
+      "strCategory": "Lamb",
+      "strArea": "British",
+      "strInstructions": "Dust the meat with flour to lightly coat.\r\nHeat enough vegetable oil in a large saucepan to fill the base, and fry the onion and meat until lightly browned. Season with salt and pepper.\r\nAdd the carrots, stock and more seasoning to taste.\r\nBring to the boil, cover and reduce the heat to a simmer. Simmer for at least an hour or until the meat is tender. Take your time cooking the meat, the longer you leave it to cook, the better the flavour will be.\r\nPreheat the oven to 180C/350F/Gas 4.\r\nAdd the drained potato cubes to the lamb.\r\nTurn the mixture into a pie dish or casserole and cover with the shortcrust pastry. Make three slits in the top of the pastry to release any steam while cooking.\r\nBrush with beaten egg and bake for about 40 minutes, until the pastry is golden brown.\r\nServe.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/sxrpws1511555907.jpg",
+      "strTags": "Pie",
+      "strYoutube": "https://www.youtube.com/watch?v=NCyPaaUNYUk"
+
+        },
+        {
+            "idMeal": "52875",
+      "strMeal": "Chicken Ham and Leek Pie",
+      "strDrinkAlternate": null,
+      "strCategory": "Chicken",
+      "strArea": "British",
+      "strInstructions": "Heat the chicken stock in a lidded saucepan. Add the chicken breast and bring to a low simmer. Cover with a lid and cook for 10 minutes. Remove the chicken breasts from the water with tongs and place on a plate. Pour the cooking liquor into a large jug.\r\nMelt 25g/1oz of the butter in a large heavy-based saucepan over a low heat. Stir in the leeks and fry gently for two minutes, stirring occasionally until just softened. Add the garlic and cook for a further minute. Add the remaining butter and stir in the flour as soon as the butter has melted. Cook for 30 seconds, stirring constantly.\r\nSlowly pour the milk into the pan, just a little at a time, stirring well between each adding. Gradually add 250ml/10fl oz of the reserved stock and the wine, if using, stirring until the sauce is smooth and thickened slightly. Bring to a gentle simmer and cook for 3 minutes.\r\nSeason the mixture, to taste, with salt and freshly ground black pepper. Remove from the heat and stir in the cream. Pour into a large bowl and cover the surface of the sauce with cling ilm to prevent a skin forming. Set aside to cool.\r\nPreheat the oven to 200C/400F/Gas 6. Put a baking tray in the oven to heat.\r\nFor the pastry, put the flour and butter in a food processor and blend on the pulse setting until the mixture resembles fine breadcrumbs. With the motor running, add the beaten egg and water and blend until the mixture forms a ball. Portion off 250g/10oz of pastry for the lid.\r\nRoll the remaining pastry out on a lightly floured surface, turning the pastry frequently until around 5mm/¼in thick and 4cm/1½in larger than the pie dish. Lift the pastry over the rolling pin and place it gently into the pie dish. Press the pastry firmly up the sides, making sure there are no air bubbles. Leave the excess pastry overhanging the sides.\r\nCut the chicken breasts into 3cm/1¼in pieces. Stir the chicken, ham and leeks into the cooled sauce. Pour the chicken filling into the pie dish. Brush the rim of the dish with beaten egg. Roll out the reserved pastry for the lid.\r\nCover the pie with the pastry lid and press the edges together firmly to seal. Trim any excess pastry.\r\nMake a small hole in the centre of the pie with the tip of a knife. Glaze the top of the pie with beaten egg. Bake on the preheated tray in the centre of the oven for 35-40 minutes or until the pie is golden-brown all over and the filling is piping hot.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg",
+      "strTags": "Pie,Meat",
+      "strYoutube": "https://www.youtube.com/watch?v=xr-CpPE_lNk"
+        },
+        {
+            "idMeal": "52805",
+            "strMeal": "Lamb Biryani",
+            "strDrinkAlternate": null,
+            "strCategory": "Lamb",
+            "strArea": "Indian",
+            "strInstructions": "Grind the cashew, poppy seeds and cumin seeds into a smooth paste, using as little water as possible. Set aside. \r\n\r\nDeep fry the sliced onions when it is hot. Don’t overcrowd the oil. When the onions turn light brown, remove from oil and drain on paper towel. The fried onion will crisp up as it drains. Also fry the cashewnuts till golden brown. Set aside.\r\n\r\nWash the rice and soak in water for twenty minutes.\r\nMeanwhile, take a big wide pan, add oil in medium heat, add the sliced onions, add the blended paste, to it add the green chillies, ginger garlic paste and garlic and fry for a minute.\r\nThen add the tomatoes and sauté them well till they are cooked and not mushy.\r\n\r\nThen to it add the red chilli powder, biryani powder, mint, coriander leaves and sauté them well.\r\nAdd the yogurt and mix well. I always move the skillet away from the heat when adding yogurt which prevents it from curdling.\r\n\r\nNow after returning the skillet back to the stove, add the washed lamb and salt and ½ cup water and mix well. Cook for 1 hour and cook it covered in medium low heat or put it in a pressure cooker for 6 whistles. If the water is not drained totally, heat it by keeping it open.\r\n\r\nTake another big pan, add thrice the cup of rice you use, and boil it. When it is boiling high, add the rice, salt and jeera and mix well. After 7 minutes exact or when the rice is 80% done. Switch off and drain the rice.\r\n\r\nNow, the layering starts. To the lamb, pat and level it. Add the drained hot rice on the top of it. Garnish with fried onions, ghee, mint, coriander leaves and saffron dissolved in milk.\r\n\r\nCover the dish and bake in a 350f oven for 15 minutes or till the cooked but not mushy. Or cook in the stove medium heat for 12 minutes and lowest heat for 5 minutes. And switch off. Mix and serve hot!\r\nNotes\r\n1. If you are cooking in oven, do make sure to cook in a big oven safe pan and cover it tight and then keep in oven for the final step.\r\n2. You can skip biryani masala if you don’t have and add just garam masala (1 tsp and red chilli powder – 3 tsp instead of 1 tsp)\r\n3. If it is spicy in the end, squeeze some lemon, it will reduce the heat and enhance the flavors also.",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+            "strTags": "Curry,Meat",
+            "strYoutube": "https://www.youtube.com/watch?v=r7SYVSG5nxo"
+        },
+        {
+            "idMeal": "53033",
+      "strMeal": "Japanese gohan rice",
+      "strDrinkAlternate": null,
+      "strCategory": "Side",
+      "strArea": "Japanese",
+      "strInstructions": "STEP 1\r\nRinsing and soaking your rice is key to achieving the perfect texture. Measure the rice into a bowl, cover with cold water, then use your fingers to massage the grains of rice – the water will become cloudy. Drain and rinse again with fresh water. Repeat five more times until the water stays clear.\r\n\r\nSTEP 2\r\nTip the rinsed rice into a saucepan with 400ml water, or 200ml dashi and 200ml water, bring to the boil, then turn down the heat to a low simmer, cover with a tight-fitting lid with a steam hole and cook for 15 mins. Remove from the heat and leave to sit for another 15 mins, then stir through the mirin. Remove the lid and give it a good stir. Serve with any or all of the optional toppings.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/kw92t41604181871.jpg",
+      "strTags": "Rice",
+      "strYoutube": "https://www.youtube.com/watch?v=rZO86_-MIp0"
+        },
+        {
+            "idMeal": "52808",
+            "strMeal": "Lamb Rogan josh",
+            "strDrinkAlternate": null,
+            "strCategory": "Lamb",
+            "strArea": "Indian",
+            "strInstructions": "\r\nPut the onions in a food processor and whizz until very finely chopped. Heat the oil in a large heavy-based pan, then fry the onion with the lid on, stirring every now and then, until it is really golden and soft. Add the garlic and ginger, then fry for 5 mins more.\r\nTip the curry paste, all the spices and the bay leaves into the pan, with the tomato purée. Stir well over the heat for about 30 secs, then add the meat and 300ml water. Stir to mix, turn down the heat, then add the yogurt.\r\nCover the pan, then gently simmer for 40-60 mins until the meat is tender and the sauce nice and thick. Serve scattered with coriander, with plain basmati or pilau rice.",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
+            "strTags": "Curry,Spicy,Alcoholic",
+            "strYoutube": "https://www.youtube.com/watch?v=NZVo32n7iS8"
+        },
+        {
+            "idMeal": "52860",
+      "strMeal": " Raspberry Brownies",
+      "strDrinkAlternate": null,
+      "strCategory": "Dessert",
+      "strArea": "American",
+      "strInstructions": "Heat oven to 180C/160C fan/gas 4. Line a 20 x 30cm baking tray tin with baking parchment. Put the chocolate, butter and sugar in a pan and gently melt, stirring occasionally with a wooden spoon. Remove from the heat.\r\nStir the eggs, one by one, into the melted chocolate mixture. Sieve over the flour and cocoa, and stir in. Stir in half the raspberries, scrape into the tray, then scatter over the remaining raspberries. Bake on the middle shelf for 30 mins or, if you prefer a firmer texture, for 5 mins more. Cool before slicing into squares. Store in an airtight container for up to 3 days.",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg",
+      "strTags": "Chocolate,Desert,Snack",
+      "strYoutube": "https://www.youtube.com/watch?v=Pi89PqsAaAg"
+        }
+    ]
+}

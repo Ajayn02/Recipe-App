@@ -115,7 +115,7 @@ const getUrl = (e) => {
       // mainh1.style.display="none";
       mainhead.style.display="none";
       header.style.display="block"
-      let e = `<h1 class="text-center"><b> Sorry Not found!</b></h1>`
+      let e = `<h1 class="text-center pt-2"><b> Sorry Not found!</b></h1>`
       header.innerHTML = e
     })
 
@@ -125,7 +125,7 @@ const getUrl = (e) => {
     // mainh1.style.display="none";
     mainhead.style.display="none";
     header.style.display="block"
-    let nothing = `<h1 class="text-center"><b>Enter Your Favorite Dish!</b></h1>`
+    let nothing = `<h1 class="text-center pt-3"><b>Enter Your Favorite Dish!</b></h1>`
     header.innerHTML = nothing
   }
 }

@@ -9,7 +9,6 @@ body {
     padding: 0px;
     margin: 0px;
     overflow-x: hidden;
-    position: relative;
     background: rgb(124, 91, 150);
     background: linear-gradient(90deg, rgba(124, 91, 150, 1) 0%, rgba(196, 196, 249, 1) 78%);
 }
